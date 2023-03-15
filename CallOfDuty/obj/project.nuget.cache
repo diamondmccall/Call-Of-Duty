@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "wsuZOiLr0mSa8jYKGMgSPx1B+5hEEyV8PRyYY/ht661glSfGiFvW0w41lNyHdDNBhe/kI/HOaAL85ZkWMbncVA==",
+  "success": true,
+  "projectFilePath": "/Users/diamondmartinez-mccall/Projects/CallOfDuty/CallOfDuty/CallOfDuty.csproj",
+  "expectedPackageFiles": [
+    "/Users/diamondmartinez-mccall/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/microsoft.extensions.configuration.fileextensions/7.0.0/microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/microsoft.extensions.configuration.json/7.0.0/microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/restsharp/109.0.1/restsharp.109.0.1.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/diamondmartinez-mccall/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
